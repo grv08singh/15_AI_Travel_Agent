@@ -1,0 +1,6 @@
+langchain-google-genai==1.0.10
+langchain-core==0.2.43
+numpy==2.1.0
+python-dotenv==1.0.0
+tavily-python
+streamlit
