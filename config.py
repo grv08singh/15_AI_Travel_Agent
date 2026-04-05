@@ -1,5 +1,6 @@
-# configuration and settings
+#configuration and setting
 import os
+from pathlib import Path
 from dotenv import load_dotenv
 
 load_dotenv(".env")
